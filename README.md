@@ -1,6 +1,6 @@
 # Harvard_CS109a_HW
 
-Practice for Harvard's CS109 class HW assginment
+This git repo is my incomplete practice for Harvard's CS109 class HW assginment
 
 This class was recommened at Quora and a few other places as being a good resource for practical data science
 
